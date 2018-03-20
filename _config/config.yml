@@ -1,0 +1,6 @@
+---
+Name: comment-chat-notifications
+---
+SilverStripe\Comments\Controllers\CommentingController:
+  extensions:
+    - Suilven\CommentsChatNotifications\Extensions\CommentChatNotifier
